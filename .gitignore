@@ -172,3 +172,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+venv/
+build/
+*.o
+*.a
+*.out
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
